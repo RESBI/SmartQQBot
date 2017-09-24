@@ -1,3 +1,6 @@
+##https://github.com/RESBI/SmartQQBot/blob/master/src/smart_qq_plugins/turing_robot.py
+##https://github.com/RESBI/SmartQQBot/blob/master/src/smart_qq_plugins/test.py
+
 SmartQQBot
 =========
 
